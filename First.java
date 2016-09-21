@@ -1,5 +1,6 @@
 /**
  * Created by NARENDRA on 16-09-2016.
+ * chef and numberes beg 1
  */
 import java.util.Scanner;
 public class First {
